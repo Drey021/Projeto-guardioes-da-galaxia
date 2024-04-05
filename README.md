@@ -15,7 +15,7 @@
 * Mobile:
 [<p align="center"><img height="400em" src="./src/design/mobile-design.PNG" alt="Projeto Guardians of the Galaxy - Versão Mobile">](https://drey021.github.io/Projeto-guardioes-da-galaxia/)<p>
 
-### 🔗 Link do Projeto: <a href="https://github.com/Drey021/Projeto-guardioes-da-galaxia" target="_blank">https://github.com/Drey021/Projeto-guardioes-da-galaxia</a>
+### 🔗 Link do Projeto: <a href="https://drey021.github.io/Projeto-guardioes-da-galaxia/" target="_blank">https://drey021.github.io/Projeto-guardioes-da-galaxia/</a>
 
 ## Tecnologias utilizadas:
 
